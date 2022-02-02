@@ -1,0 +1,15 @@
+{
+  "name": "js-simple-maths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacci.js",
+  "scripts": {
+    "start": "nodemon fibonacci.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
